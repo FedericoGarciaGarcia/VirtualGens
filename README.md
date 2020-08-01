@@ -4,6 +4,8 @@ Sega Genesis emulator *Gens KMod* running inside Unity in a virtual room.
 
 This project is an attempt at implementing Sega's *SEGA Genesis Classics*' VR room.
 
+![VirtualGens](https://raw.githubusercontent.com/FedericoGarciaGarcia/VirtualGens/master/Screenshots/screen1.jpg)
+
 ## Installation
 
 1. Download the *VirtualGens* folder and copy it into a Unity project folder.
