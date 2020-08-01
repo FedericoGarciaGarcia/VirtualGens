@@ -6,16 +6,16 @@ This project is an attempt at implementing Sega's *SEGA Genesis Classics*' VR ro
 
 ## Installation
 
-1. Download the "VirtualGens" folder and copy it into a Unity project folder.
-2. Add the prefab "VirtualGens" to a scene.
+1. Download the *VirtualGens* folder and copy it into a Unity project folder.
+2. Add the prefab *VirtualGens* to a scene.
 3. Build the Unity project for Windows 32-bit; the DLL was compiled in a 32-bit system. Mac and Linux are not supported.
-4. Place a Sega Genesis ROM in the build folder, where the executable is. The ROM file should be named "rom.bin".
+4. Place a Sega Genesis ROM in the build folder, where the executable is. The ROM file should be named *rom.bin*.
 
 ## Use
 
 *VirtualGens* cannot be run on the Editor, only as an application.
 
-The application will start in fullscreen and the Sega Genesis ROM will be executed immediately.
+The application will start in fullscreen and the Sega Genesis ROM will be executed immediately. Configuration and log files will be created. For the best experience, the application should be run at a minimum of 60 frames per second.
 
 ## Controls
 
@@ -47,4 +47,4 @@ I do not condone the use of ilegally obtained roms.
 
 * *Virtual Gens*: Federico Garcia
 * *Gens KMod*: [Kaneda](https://segaretro.org/Gens_KMod)
-* *Furbished Cabin asset*: [Johnny Kasapi] (https://assetstore.unity.com/packages/3d/environments/urban/furnished-cabin-71426)
+* *Furbished Cabin asset*: [Johnny Kasapi](https://assetstore.unity.com/packages/3d/environments/urban/furnished-cabin-71426)
