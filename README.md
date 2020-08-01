@@ -27,20 +27,19 @@ The application will start in fullscreen and the Sega Genesis ROM will be execut
 * **S**: move backwards.
 * **A**: strafe left.
 * **D**: strafe right.
-* **Z**: press A button on the controller.
-* **X**: press B button on the controller.
-* **C**: press C button on the controller.
-* **B**: press X button on the controller.
-* **N**: press Y button on the controller.
-* **M**: press Z button on the controller.
-* **V**: press Start button on the controller.
+* **Z**: press A button on the gamepad.
+* **X**: press B button on the gamepad.
+* **C**: press C button on the gamepad.
+* **B**: press X button on the gamepad.
+* **N**: press Y button on the gamepad.
+* **M**: press Z button on the gamepad.
+* **V**: press Start button on the gamepad.
 
 ## Description
 
 [Gens KMod](https://segaretro.org/Gens_KMod) source code was compiled as a 32-bit DLL, *gens.dll*, with a new interface to allow communication with an application. The DLL code is run on a separate thread, and receives input from Unity. After each frame, the DLL sends the screen buffer as an array to Unity, where it is rendered to a texture. Since audio is handled directly by Gens, there is no 3D audio as of yet.
 
-A virtual room was created with a TV where the execution of the emulator can be seen. The user can move and look around. The player carries a wireless Sega Genesis controller, animated when the user presses any button.
-
+A virtual room was created with a TV where the execution of the emulator can be seen. The player can move, look around, and play the Sega Genesis with a wireless gamepad.
 ## Legal
 
 * I do not condone the use of ilegally obtained roms.
