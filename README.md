@@ -11,7 +11,7 @@ This project is an attempt at implementing Sega's *SEGA Genesis Classics*' VR ro
 1. Download the *VirtualGens* folder and copy it to a Unity project folder.
 2. Add the prefab *VirtualGens* to a scene.
 3. Build the Unity project for Windows 32-bit; Mac and Linux are not supported.
-4. Place a Sega Genesis ROM in the build folder, where the executable is. The ROM file should be named *rom.bin*.
+4. Put a Sega Genesis ROM in the build folder, where the executable is. The ROM file should be named *rom.bin*
 
 ## Use
 
