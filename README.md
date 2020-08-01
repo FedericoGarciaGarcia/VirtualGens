@@ -37,7 +37,7 @@ The application will start in fullscreen and the Sega Genesis ROM will be execut
 
 ## Description
 
-The Sega Gensis [Gens KMod](https://segaretro.org/Gens_KMod) source code was compiled as a 32-bit DLL with a new interface to allow communication with an application. The DLL code is run on a separate thread, and receives input from Unity. After each frame is rendered, the DLL sends it as an array to Unity to be drawn on a texture. Since audio is handeled directly by Gens, there is no 3D audio as of yet.
+The Sega Gensis [Gens KMod](https://segaretro.org/Gens_KMod) source code was compiled as a 32-bit DLL, *gens.dll*, with a new interface to allow communication with an application. The DLL code is run on a separate thread, and receives input from Unity. After each frame is rendered, the DLL sends it as an array to Unity to be drawn on a texture. Since audio is handeled directly by Gens, there is no 3D audio as of yet.
 
 A virtual room was created with a TV where the execution of the emulator can be seen. The user can move and look around. The player carries a wireless Sega Genesis controller, animated when the user presses any button.
 
