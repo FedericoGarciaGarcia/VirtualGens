@@ -47,7 +47,7 @@ A virtual room was created with a TV where the execution of the emulator can be 
 
 ## Authors
 
-* *Virtual Gens*: [Federico Garcia](http://federicogarcia.site)
+* *Virtual Gens*: [Federico Garcia Garcia](http://federicogarcia.site)
 * *Gens KMod*: [Kaneda](http://gendev.spritesmind.net/page-gensK.html)
 * *Furbished Cabin asset*: [Johnny Kasapi](https://assetstore.unity.com/packages/3d/environments/urban/furnished-cabin-71426)
 * *Sega Genesis console model*: [niklas.glosen](https://sketchfab.com/niklas.glosen)
