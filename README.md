@@ -1,21 +1,24 @@
 # Virtual Gens v0.1
 
-Sega Gensis "Gens KMod" emulator running inside Unity in a virtual room.
+Sega Gensis *Gens KMod* emulator running inside Unity in a virtual room.
 
-This project is an attempt at implementing Sega's "SEGA Genesis Classics" VR room.
+This project is an attempt at implementing Sega's *SEGA Genesis Classics*' VR room.
 
 ## Installation
 
 1. Download the "VirtualGens" folder and copy it into a Unity project folder.
-2. Import the prefab into the editor.
-3. Build for Windows 32-bit; DLL was compiled in a 32-bit system. Mac and Linux are not supported.
-4. Place a Sega Genesis ROM in the root folder where the application executable is. The ROM file should be named "rom.bin".
+2. Add the prefab "VirtualGens" to a scene.
+3. Build the Unity project for Windows 32-bit; the DLL was compiled in a 32-bit system. Mac and Linux are not supported.
+4. Place a Sega Genesis ROM in the build folder, where the executable is. The ROM file should be named "rom.bin".
 
 ## Use
 
-Run "VirtualGens.exe". The application will start in fullscreen and the Sega Genesis ROM will be executed immediately.
+*VirtualGens* cannot be run on the Editor, only as an application.
 
-Controls:
+The application will start in fullscreen and the Sega Genesis ROM will be executed immediately.
+
+## Controls
+
 * **Esc**: close the application.
 * **Mouse**: look around.
 * **W**: move forwards.
