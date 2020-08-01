@@ -17,7 +17,7 @@ This project is an attempt at implementing Sega's *SEGA Genesis Classics*' VR ro
 
 *VirtualGens* cannot be run on the Editor, only as an application.
 
-The application will start in fullscreen and the Sega Genesis ROM will be executed immediately. Configuration and log files will be created. For the best experience, the application should be run at a minimum of 60 frames per second.
+The application will start in fullscreen and the Sega Genesis ROM will be executed immediately. Configuration and log files will be created. For the best experience, the application should run at a minimum of 60 frames per second.
 
 ## Controls
 
