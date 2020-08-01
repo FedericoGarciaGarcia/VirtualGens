@@ -1,6 +1,6 @@
 # Virtual Gens v0.1
 
-Sega Genesis emulator *Gens KMod* running inside Unity in a virtual room.
+Sega Genesis emulator *Gens KMod* running in Unity.
 
 This project is an attempt at implementing Sega's *SEGA Genesis Classics*' VR room.
 
@@ -43,7 +43,7 @@ A virtual room was created with a TV where the execution of the emulator can be 
 
 ## Legal
 
-I do not condone the use of ilegally obtained roms.
+* I do not condone the use of ilegally obtained roms.
 
 ## Authors
 
